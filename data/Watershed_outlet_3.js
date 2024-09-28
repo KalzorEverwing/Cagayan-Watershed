@@ -1,0 +1,1 @@
+var json_Watershed_outlet_3 = {"type":"FeatureCollection","name":"Watershed_outlet_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME_":"Watershed Outlet"},"geometry":{"type":"Point","coordinates":[121.636427853407071,17.908917894193205]}}]}
